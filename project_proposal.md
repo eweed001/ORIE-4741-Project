@@ -1,0 +1,7 @@
+How accurately can we predict who will win the electoral votes for the 2020 Presidental Election in a swing state such as Florida, Pennsylvania, Michigan using data from previous elections?
+
+
+This question will give us insight into the political makeup of these states. This could be useful for political analysis of these areas to provide information on future predictions and guidance on where campaigning efforts should be focused for each party. The project will address many relevant questions about the political distribution throughout the Untied States, especially in areas it changes most frequently.
+ 
+
+One data set we have found so far is data by county for Florida from the 2016 Presidental Election. It gives information on percentage of the vote each party won in 2016, as well as 2012, and 2008, racial makeup, education level, median earnings, and poverty rate. This data set provides us with an ample amount of factors to analyze for each county in Florida. We can use this to predict each individual county as well as extrapolate out to larger areas. We believe that many of these factors included will be good predictors of which candidate will win the electoral votes for Florida. 
