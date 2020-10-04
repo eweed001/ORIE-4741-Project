@@ -1,2 +1,7 @@
-# ORIE-4741-Project
-Class project for "Learning with Big Messy Data"
+# Predicting Election Results in Swing States
+### Class project for "Learning with Big Messy Data"
+### Authors: Emily Weed (emw232), Vaed Prasad (vsp22), Alexander Salonga (as2739)
+
+In this project we will explore previous election data, demographic data, socioeconomic data and sentiment about recent events in an attempt to predict which candidate will win the electoral votes in swing states. Swing states are those that have leaned both democratic and republican in the past and in which the presidental candidate wins by a small margin. They often drawn the majority of the campaiging during the election season and become very important during a competitive election. Which party has previously dominated the state in midterm as well as presidental elections, the potential shift in the demographics and socioeconomic status of the residents, as well as recent reactions to the COVID response will be main things we will look at.
+
+We plan to focus on Florida, Pennsylvania, and Michigan because they have historically leaned both Democratic and Republican and remain contested for this upcoming election. President Trump won these three states by very small margins in 2016 but President Obama won all three in 2012. We hope to create a model that can predict the percentage that a candidate wins the electoral votes by within a certain margin. With the timing of the project we can also do analysis on the post-election data. We will be able to gain insight into which features were actually the most important in determining the results. This project will provide information on what makes a swing state a swing state and how it can change over time.
