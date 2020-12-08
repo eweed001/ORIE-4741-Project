@@ -1,0 +1,69 @@
+ElectionNumber	ElectionDate	ElectionName	CountyName	StatType	TotalRep	TotalDem	TotalOth	TotalNpa	GrandTotal	CompileDate
+10866	11/03/2020	2020 General Election	State Totals	Voted Vote-by-Mail	1,506,223	2,189,710	66,345	1,093,399	4,855,677	11/18/2020 11:08AM
+10866	11/03/2020	2020 General Election	Alachua	Voted Vote-by-Mail	12,163	37,139	753	11,597	61,652	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Baker	Voted Vote-by-Mail	1,605	978	26	232	2,841	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Bay	Voted Vote-by-Mail	13,569	10,292	463	4,640	28,964	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Bradford	Voted Vote-by-Mail	1,891	1,531	32	377	3,831	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Brevard	Voted Vote-by-Mail	54,260	59,534	2,525	30,694	147,013	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Broward	Voted Vote-by-Mail	81,535	274,303	5,133	113,433	474,404	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Calhoun	Voted Vote-by-Mail	574	858	10	107	1,549	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Charlotte	Voted Vote-by-Mail	22,806	20,580	1,020	12,318	56,724	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Citrus	Voted Vote-by-Mail	17,528	13,692	550	7,449	39,219	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Clay	Voted Vote-by-Mail	16,468	10,818	526	6,666	34,478	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Collier	Voted Vote-by-Mail	48,740	30,961	1,117	21,996	102,814	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Columbia	Voted Vote-by-Mail	4,166	4,222	97	1,247	9,732	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	DeSoto	Voted Vote-by-Mail	1,292	1,536	29	589	3,446	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Dixie	Voted Vote-by-Mail	1,429	878	23	313	2,643	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Duval	Voted Vote-by-Mail	42,758	68,673	2,298	24,719	138,448	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Escambia	Voted Vote-by-Mail	24,392	25,467	1,001	10,581	61,441	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Flagler	Voted Vote-by-Mail	11,600	13,405	376	6,375	31,756	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Franklin	Voted Vote-by-Mail	913	1,287	53	305	2,558	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Gadsden	Voted Vote-by-Mail	891	6,268	37	474	7,670	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Gilchrist	Voted Vote-by-Mail	1,408	849	19	285	2,561	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Glades	Voted Vote-by-Mail	798	681	31	222	1,732	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Gulf	Voted Vote-by-Mail	1,047	855	43	167	2,112	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Hamilton	Voted Vote-by-Mail	679	921	21	145	1,766	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Hardee	Voted Vote-by-Mail	727	694	10	225	1,656	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Hendry	Voted Vote-by-Mail	1,308	1,515	39	433	3,295	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Hernando	Voted Vote-by-Mail	18,596	18,699	724	9,312	47,331	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Highlands	Voted Vote-by-Mail	8,230	7,598	213	3,585	19,626	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Hillsborough	Voted Vote-by-Mail	95,758	155,920	4,994	80,577	337,249	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Holmes	Voted Vote-by-Mail	1,382	738	7	178	2,305	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Indian River	Voted Vote-by-Mail	19,267	16,437	784	9,154	45,642	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Jackson	Voted Vote-by-Mail	2,462	3,350	31	407	6,250	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Jefferson	Voted Vote-by-Mail	658	1,610	10	212	2,490	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Lafayette	Voted Vote-by-Mail	460	229	7	37	733	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Lake	Voted Vote-by-Mail	24,072	28,863	788	15,648	69,371	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Lee	Voted Vote-by-Mail	94,557	73,668	2,666	52,984	223,875	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Leon	Voted Vote-by-Mail	14,980	41,597	781	9,866	67,224	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Levy	Voted Vote-by-Mail	3,672	2,984	166	1,019	7,841	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Liberty	Voted Vote-by-Mail	231	420	1	45	697	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Madison	Voted Vote-by-Mail	592	1,276	12	170	2,050	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Manatee	Voted Vote-by-Mail	40,887	40,753	1,395	22,106	105,141	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Marion	Voted Vote-by-Mail	28,479	31,661	855	12,816	73,811	11/17/2020  8:28AM
+10866	11/03/2020	2020 General Election	Martin	Voted Vote-by-Mail	19,273	14,941	729	8,428	43,371	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Miami-Dade	Voted Vote-by-Mail	129,823	233,010	6,170	141,965	510,968	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Monroe	Voted Vote-by-Mail	8,241	9,656	324	4,085	22,306	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Nassau	Voted Vote-by-Mail	8,880	5,804	317	3,158	18,159	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Okaloosa	Voted Vote-by-Mail	18,196	11,273	695	7,493	37,657	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Okeechobee	Voted Vote-by-Mail	2,066	1,938	70	607	4,681	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Orange	Voted Vote-by-Mail	63,601	140,822	3,861	71,511	279,795	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Osceola	Voted Vote-by-Mail	16,365	38,004	884	21,212	76,465	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Palm Beach	Voted Vote-by-Mail	87,606	202,237	6,424	91,563	387,830	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Pasco	Voted Vote-by-Mail	41,657	50,516	1,942	29,514	123,629	11/18/2020 11:08AM
+10866	11/03/2020	2020 General Election	Pinellas	Voted Vote-by-Mail	117,191	146,863	4,645	79,301	348,000	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Polk	Voted Vote-by-Mail	45,992	57,783	1,700	28,701	134,176	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Putnam	Voted Vote-by-Mail	3,506	4,213	93	1,189	9,001	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Santa Rosa	Voted Vote-by-Mail	15,022	9,399	638	5,423	30,482	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Sarasota	Voted Vote-by-Mail	49,685	60,860	1,768	28,890	141,203	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Seminole	Voted Vote-by-Mail	32,850	43,954	1,566	25,412	103,782	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	St. Johns	Voted Vote-by-Mail	23,122	22,641	946	10,862	57,571	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	St. Lucie	Voted Vote-by-Mail	21,680	37,811	1,010	16,122	76,623	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Sumter	Voted Vote-by-Mail	19,067	13,953	283	7,521	40,824	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Suwannee	Voted Vote-by-Mail	3,038	2,389	69	652	6,148	11/16/2020  8:27AM
+10866	11/03/2020	2020 General Election	Taylor	Voted Vote-by-Mail	1,494	1,405	20	174	3,093	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Union	Voted Vote-by-Mail	600	522	14	82	1,218	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Volusia	Voted Vote-by-Mail	48,792	58,909	2,206	33,023	142,930	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Wakulla	Voted Vote-by-Mail	1,902	2,479	58	649	5,088	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Walton	Voted Vote-by-Mail	6,188	3,421	219	1,877	11,705	11/18/2020  8:26AM
+10866	11/03/2020	2020 General Election	Washington	Voted Vote-by-Mail	1,556	1,167	28	280	3,031	11/18/2020  8:26AM
